@@ -1,0 +1,28 @@
+𝖪𝗎𝗋𝗎𝗅𝗎𝗆 :
+
+𝖦ü𝗇𝖼𝖾𝗅𝗅𝖾𝗆𝖾 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋𝗂
+
+pkg update && pkg upgrade
+
+apt update && apt upgrade
+
+pkg install git
+
+pkg install python
+
+pkg install python2
+
+pkg install python3
+
+𝖪𝗎𝗋𝗎𝗅𝗎𝗆 𝖪𝗈𝖽𝗅𝖺𝗋𝗂 :
+
+git clone https://github.com/H4CK3R-0/x_hack3r_x_DDoS
+
+cd x_hack3r_x_DDoS/
+
+chmod +x *
+
+python3 ddos-attack.py
+
+İnstagram:@mertlone
+Youtube:@yakında
